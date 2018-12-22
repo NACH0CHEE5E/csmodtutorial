@@ -1,0 +1,21 @@
+[{
+	"name": "bob.newmod",
+	"version": "0.1.0",
+	"namepretty": "New Mod",
+	"enabled": true,
+	"marksgamemodded": true,
+	"compatibleversions": [
+		"0.6.3"
+	],
+	"jsonFiles": [
+		{
+			"fileType" : "addOrOverrideTextureMappingEntries",
+			"index" : 1,
+			"relativePath" : "gamedata/textures/materials/textures.json"
+		},
+		{
+			"fileType": "addNewTypes",
+			"relativePath": "gamedata/types/types.json"
+		}
+	]
+}]

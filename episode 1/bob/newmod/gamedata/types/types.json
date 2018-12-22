@@ -1,0 +1,18 @@
+{
+	"bob.Types.newblock": {
+		"categories": [
+			"bob"
+		],
+		"icon": "./../textures/icons/newblock.png",
+		"maxStackSize": 200,
+		"sideall": "bob.Textures.newblock"
+	},
+	"bob.Types.newitem": {
+		"categories": [
+			"bob"
+		],
+		"icon": "./../textures/icons/newblock.png",
+		"maxStackSize": 200,
+		"isPlaceable": false
+	}
+}
